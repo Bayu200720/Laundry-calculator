@@ -45,7 +45,7 @@ export interface AddonService {
 export const STORE_CONFIG: StoreConfig = {
   storeName: "LaundryCalc",
   whatsappNumber: "6281234567890",
-  operatingHours: "08.00–20.00 WIB",
+  operatingHours: "Senin–Jumat, 08.00–20.00 WIB",
   pickupHours: "09.00–17.00 WIB",
   pickupRadiusKm: 5,
   minChargeKg: 3.0,

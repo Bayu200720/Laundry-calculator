@@ -16,5 +16,5 @@ Dokumen ini merangkum fitur dari PRD LaundryCalc & Catalog v0.1 beserta priorita
 
 ## Keputusan & Catatan PRD
 
-1. Data jam operasional (`08.00–20.00 WIB`), jadwal penjemputan kurir (`09.00–17.00 WIB`), nomor WhatsApp contoh (`6281234567890`), dan tarif `[Proposed Assumption]` berasal dari konfigurasi statis agar mudah diubah oleh pemilik toko.
+1. Data jam operasional (`Senin–Jumat, 08.00–20.00 WIB`), jadwal penjemputan kurir (`09.00–17.00 WIB`), nomor WhatsApp contoh (`6281234567890`), dan tarif `[Proposed Assumption]` berasal dari konfigurasi statis agar mudah diubah oleh pemilik toko.
 2. Pilihan desain yang telah disetujui pengguna: kesan ramah dan hangat (Plus Jakarta Sans), warna aksen biru, sapaan "Anda", tanpa gambar pada katalog, dan susunan satu halaman bergulir dengan bagian terpisah serta bilah ringkasan di bawah layar.
